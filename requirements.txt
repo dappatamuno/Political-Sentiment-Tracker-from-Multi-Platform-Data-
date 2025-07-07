@@ -1,0 +1,12 @@
+gradio
+pandas
+snscrape
+praw
+newspaper3k
+nltk
+matplotlib
+wordcloud
+transformers
+torch
+beautifulsoup4
+seaborn
